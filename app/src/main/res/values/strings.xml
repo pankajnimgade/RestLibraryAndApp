@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTestApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="consumer_key">########################################################</string>
+    <string name="consumer_secret">####################################</string>
+    <string name="domain_name">#########################################</string>
+    <string name="path_name_101">#####################################</string>
+    <string name="shared_preferences_file_xml">shared_preferences_file.xml</string>
+</resources>
+            

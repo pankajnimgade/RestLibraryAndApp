@@ -1,0 +1,10 @@
+apply plugin: 'java'
+
+dependencies {
+    compile 'oauth.signpost:signpost-core:1.2'
+    compile 'com.google.code.gson:gson:2.8.1'
+    testCompile 'junit:junit:4.12'
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"
